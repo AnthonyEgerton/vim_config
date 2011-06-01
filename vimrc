@@ -1,4 +1,5 @@
 set nocompatible
+set number
 
 set nobackup
 set nowritebackup
